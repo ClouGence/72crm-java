@@ -1,5 +1,7 @@
 #database
 mysql.jdbcUrl = jdbc:mysql://127.0.0.1:3306/crm9?characterEncoding=utf8&useSSL=false&zeroDateTimeBehavior=convertToNull&tinyInt1isBit=false
-mysql.user = root
-mysql.password = 123456
+mysql.user = origin
+mysql.password = 123258
+#mysql.user = crm9_user
+#mysql.password = crmsfds234dcx
 jfinal.devMode = false
